@@ -1,0 +1,1 @@
+Developed and entire portfolio website with the help of HTML,Css and javascript. An external javascript library called "scroll reveal ia also used in order to provide some animation effect to the pages. Moreover some javascript logic is also used in "about me" section to display contents when we click .
